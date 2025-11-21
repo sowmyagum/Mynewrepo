@@ -6,7 +6,4 @@ This is java code adding from github
     }
 }
 
-=======
-
 New code by dev1
->>>>>>> Stashed changes
